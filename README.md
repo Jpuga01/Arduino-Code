@@ -1,3 +1,3 @@
-# Arduino-Code
-This repository represents all my code for arduino projects
+# Weather Station
+This repository represents my project for a Weather Station for Arduino
  
